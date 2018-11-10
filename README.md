@@ -1,2 +1,2 @@
 # Assign_Repo_for_Funda_DA
-Assignment Repository for Fundamentals of Data Analysis
+The analysis of the Anscombe's Quartet contained in the page below is the assignment submission for the 2nd semester 5 credit module - Fundamentals of Data Analysis, part of the course entitled Higher Diploma in Science - Computing(Data Analytics), submitted to Dr. Ian McLoughlin, Lecturer and Programme Director, at GMIT. The Questions below are extracted directly from the assignment direction and they are answered them in the order in which they were presented. A number of sources of reference material were reviewed and we have hyperlinked the reference were relevant and listed the sources at the end of this page.
